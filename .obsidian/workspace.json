@@ -37,8 +37,7 @@
               "title": "网络协议"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45017b190936ec30",
+  "active": "90460c25690b9919",
   "lastOpenFiles": [
-    "未命名.md",
     "其他/网络协议.md",
+    "未命名.md",
     "其他",
     "第四篇 8. 网络通信.md",
     "源码/I2C结构体原型及注释.md",
