@@ -181,14 +181,23 @@
               "icon": "lucide-list",
               "title": "网络协议 的大纲"
             }
+          },
+          {
+            "id": "c2bd885fa3cfb7a9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +207,8 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "45017b190936ec30",
