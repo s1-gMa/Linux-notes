@@ -1,18 +1,18 @@
 {
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "Tab"
-    }
-  ],
   "codeblock-customizer:codeblock-customizer-foldall-editor": [
     {
       "modifiers": [
         "Alt"
       ],
       "key": "F"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
     }
   ]
 }

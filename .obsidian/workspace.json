@@ -24,20 +24,23 @@
             }
           },
           {
-            "id": "45017b190936ec30",
+            "id": "cb4b2cf3079176bb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/网络协议.md",
+                "file": "操作系统.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "网络协议"
+              "title": "操作系统"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,17 +213,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90460c25690b9919",
+  "active": "cb4b2cf3079176bb",
   "lastOpenFiles": [
-    "其他/网络协议.md",
-    "未命名.md",
-    "其他",
     "第四篇 8. 网络通信.md",
+    "操作系统.md",
+    "其他/网络协议.md",
+    "第四篇 7. I2C应用编程.md",
+    "其他",
     "源码/I2C结构体原型及注释.md",
     "第四篇 5. 输入系统应用编程.md",
     "第四篇 4. Framebuffer 应用编程.md",
     "第四篇 3. 文件 IO.md",
-    "第四篇 7. I2C应用编程.md",
     "第四篇 6. 多线程编程.md",
     "第四篇 1.交叉编译.md",
     "第四篇 2.Makefile.md",
