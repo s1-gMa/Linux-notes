@@ -31,8 +31,8 @@
               "type": "markdown",
               "state": {
                 "file": "操作系统.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
