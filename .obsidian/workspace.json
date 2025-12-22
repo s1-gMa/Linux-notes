@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "e97f827cb4410fa2",
@@ -227,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3b0667a82568cc6",
+  "active": "c2bd885fa3cfb7a9",
   "lastOpenFiles": [
     "操作系统.md",
     "其他/网络协议.md",
