@@ -40,13 +40,13 @@
             }
           },
           {
-            "id": "d3b0667a82568cc6",
+            "id": "d666f6b1241f3011",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "软件.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "e97f827cb4410fa2",
@@ -228,15 +227,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3b0667a82568cc6",
+  "active": "d666f6b1241f3011",
   "lastOpenFiles": [
-    "未命名.md",
+    "算法.md",
     "软件.md",
+    "未命名.md",
     "操作系统.md",
     "其他/网络协议.md",
     "第四篇 8. 网络通信.md",
     "未命名",
-    "算法.md",
     "第四篇 1.交叉编译.md",
     "其他/面试.md",
     "Pasted image 20251209181405.png",
